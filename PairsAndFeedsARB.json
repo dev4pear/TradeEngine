@@ -1,0 +1,72 @@
+[
+    {   "symbol": "1INCH/USDC", 
+        "asset1": "0x6314C31A7a1652cE482cffe247E9CB7c3f4BB9aF",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x4bC735Ef24bf286983024CAd5D03f0738865Aaef"
+    },
+    {   "symbol": "AAVE/USDC", 
+        "asset1": "0xba5DdD1f9d7F570dc94a51479a000E3BCE967196",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0xaD1d5344AaDE45F43E596773Bcc4c423EAbdD034"
+    },
+    {   "symbol": "ARB/USDC", 
+        "asset1": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0xb2A824043730FE05F3DA2efaFa1CBbe83fa548D6"
+    },
+    {   "symbol": "WAVAX/USDC", 
+        "asset1": "0x565609fAF65B92F7be02468acF86f8979423e514",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x8bf61728eeDCE2F32c456454d87B5d6eD6150208"
+    },
+    {   "symbol": "BNB/USDC", 
+        "asset1": "0x20865e63B111B2649ef829EC220536c82C58ad7B",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x6970460aabF80C5BE983C6b74e5D06dEDCA95D4A"
+    },
+    {   "symbol": "WBTC/WETH", 
+        "asset1": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "asset2": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "feed": "0xc5a90A6d7e4Af242dA238FFe279e9f2BA0c64B2e"
+    },
+    {   "symbol": "WBTC/USDC", 
+        "asset1": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x6ce185860a4963106506C203335A2910413708e9"
+    },
+    {   "symbol": "DAI/USDC", 
+        "asset1": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0xc5C8E77B397E531B8EC06BFb0048328B30E9eCfB"
+    },
+    {   "symbol": "ETH/USDC", 
+        "asset1": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x639Fe6ab55C921f74e7fac1ee960C0B6293ba612"
+    },
+    {   "symbol": "LINK/ETH", 
+        "asset1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "asset2": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+        "feed": "0xb7c8Fb1dB45007F98A68Da0588e1AA524C317f27"
+    },
+    {   "symbol": "LINK/USDC", 
+        "asset1": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x86E53CF1B870786351Da77A57575e79CB55812CB"
+    },
+    {   "symbol": "MATIC/USDC", 
+        "asset1": "0x561877b6b3DD7651313794e5F2894B2F18bE0766",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x52099D4523531f678Dfc568a7B1e5038aadcE1d6"
+    },
+    {   "symbol": "SUSHI/USDC", 
+        "asset1": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0xb2A8BA74cbca38508BA1632761b56C897060147C"
+    },
+    {   "symbol": "UNI/USDC", 
+        "asset1": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
+        "asset2": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "feed": "0x9C917083fDb403ab5ADbEC26Ee294f6EcAda2720"
+    }
+]

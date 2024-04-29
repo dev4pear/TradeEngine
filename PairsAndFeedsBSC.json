@@ -1,0 +1,127 @@
+[
+    {   "symbol": "1INCH/USDC", 
+        "asset1": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x9a177Bb9f5b6083E962f9e62bD21d4b5660Aeb03"
+    },
+    {   "symbol": "AAVE/USDC", 
+        "asset1": "0xfb6115445Bff7b52FeB98650C87f44907E58f802",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xA8357BF572460fC40f4B0aCacbB2a6A61c89f475"
+    },
+    {   "symbol": "ADA/USDC", 
+        "asset1": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xa767f745331D267c7751297D982b050c93985627"
+    },
+    {   "symbol": "ATOM/USDC", 
+        "asset1": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xb056B7C804297279A9a673289264c17E6Dc6055d"
+    },
+    {   "symbol": "AVAX/USDC", 
+        "asset1": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x5974855ce31EE8E1fff2e76591CbF83D7110F151"
+    },
+    {   "symbol": "BCH/BNB", 
+        "asset1": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+        "asset2": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "feed": "0x2a548935a323Bb7329a5E3F1667B979f16Bc890b"
+    },
+    {   "symbol": "BNB/USD", 
+        "asset1": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE"
+    },
+    {   "symbol": "BTC/BNB", 
+        "asset1": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "asset2": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "feed": "0x116EeB23384451C78ed366D4f67D5AD44eE771A0"
+    },
+    {   "symbol": "BTC/ETH", 
+        "asset1": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "asset2": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "feed": "0xf1769eB4D1943AF02ab1096D7893759F6177D6B8"
+    },
+    {   "symbol": "BTC/USDC", 
+        "asset1": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x264990fbd0A4796A3E3d8E37C4d5F87a3aCa5Ebf"
+    },
+    {   "symbol": "CAKE/USDC", 
+        "asset1": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xB6064eD41d4f67e353768aA239cA86f4F73665a1"
+    },
+    {   "symbol": "DAI/BNB", 
+        "asset1": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "asset2": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "feed": "0x8EC213E7191488C7873cEC6daC8e97cdbAdb7B35"
+    },
+    {   "symbol": "DAI/USDC", 
+        "asset1": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x132d3C0B1D2cEa0BC552588063bdBb210FDeecfA"
+    },
+    {   "symbol": "DOGE/USDC", 
+        "asset1": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x3AB0A0d137D4F946fBB19eecc6e92E64660231C8"
+    },
+    {   "symbol": "ETH/BNB", 
+        "asset1": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "asset2": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "feed": "0x63D407F32Aa72E63C7209ce1c2F5dA40b3AaE726"
+    },
+    {   "symbol": "ETH/USDC", 
+        "asset1": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x9ef1B8c0E4F7dc8bF5719Ea496883DC6401d5b2e"
+    },
+    {   "symbol": "LINK/BNB", 
+        "asset1": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+        "asset2": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "feed": "0xB38722F6A608646a538E882Ee9972D15c86Fc597"
+    },
+    {   "symbol": "LINK/USDC", 
+        "asset1": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xca236E327F629f9Fc2c30A4E95775EbF0B89fac8"
+    },
+    {   "symbol": "LTC/USDC", 
+        "asset1": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x74E72F37A8c415c8f1a98Ed42E78Ff997435791D"
+    },
+    {   "symbol": "MATIC/USDC", 
+        "asset1": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x7CA57b0cA6367191c94C8914d7Df09A57655905f"
+    },
+    {   "symbol": "SHIB/USDC", 
+        "asset1": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xA615Be6cb0f3F36A641858dB6F30B9242d0ABeD8"
+    },
+    {   "symbol": "SOL/USDC", 
+        "asset1": "0xFEa6aB80cd850c3e63374Bc737479aeEC0E8b9a1",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x0E8a53DD9c13589df6382F13dA6B3Ec8F919B323"
+    },
+    {   "symbol": "UNI/USDC", 
+        "asset1": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0xb57f259E7C24e56a1dA00F66b55A5640d9f9E7e4"
+    },
+    {   "symbol": "USDT/BNB", 
+        "asset1": "0x55d398326f99059fF775485246999027B3197955",
+        "asset2": "0x06548a50Ecbff6614Ef385BE373E5a14EA3683d6",
+        "feed": "0xD5c40f5144848Bd4EF08a9605d860e727b991513"
+    },
+    {   "symbol": "XRP/USDC", 
+        "asset1": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+        "asset2": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "feed": "0x93A67D414896A280bF8FFB3b389fE3686E014fda"
+    }
+]
