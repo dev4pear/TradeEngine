@@ -23,7 +23,7 @@ const config: HardhatUserConfig = {
       url: "https://bsc.drpc.org",
       accounts: {
         mnemonic:
-          "trip fault muffin quit damage fold dismiss remove balance again message pledge",
+          "",
       },
       chainId: 56,
     },
@@ -32,7 +32,7 @@ const config: HardhatUserConfig = {
       url: "https://eth.llamarpc.com",
       accounts: {
         mnemonic:
-          "trip fault muffin quit damage fold dismiss remove balance again message pledge",
+          "",
       },
       chainId: 1,
     },
@@ -41,7 +41,7 @@ const config: HardhatUserConfig = {
       url: "https://1rpc.io/arb",
       accounts: {
         mnemonic:
-          "trip fault muffin quit damage fold dismiss remove balance again message pledge",
+          "",
       },
       chainId: 42161,
     },
